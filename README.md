@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=thabet1thabet1&color=blue&style=flat-square)
 
 # Hi, I'm Thabet a Flutter Developer
 
@@ -15,13 +15,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-
-<style>
-@media (max-width: 768px) {
-  div[align="center"] {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-  }
-}
-</style>
