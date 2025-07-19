@@ -2,7 +2,7 @@
 
 # Hi, I'm Thabet a Flutter Developer
 
-* Got a Flutter project in mind? Don't hesitate to reach out *
+*Got a Flutter project in mind? Don't hesitate to reach out*
 
 <div align="center">
   <a href="https://wa.me/213672650550">
