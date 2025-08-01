@@ -2,6 +2,6 @@
 ![](https://raw.githubusercontent.com/Schweinepriester/Schweinepriester/master/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
 
 ### Connect with me
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/213672650550) **|** [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thabeeet) **|** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thabet-charef-khodja-97ab03347)
+<a href="https://wa.me/213672650550"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="40" height="40"/></a> **|** <a href="https://t.me/thabeeet"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="40" height="40"/></a> **|** <a href="https://www.linkedin.com/in/thabet-charef-khodja-97ab03347"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=thabet1thabet1&color=blue&style=flat-square)
